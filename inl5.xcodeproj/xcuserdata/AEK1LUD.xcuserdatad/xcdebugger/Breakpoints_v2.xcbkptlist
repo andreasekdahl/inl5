@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6AA9A496-7F7D-4747-AC76-1D081D81994D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1522C717-77B0-4285-9B82-E4AD57B3CD97"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "inl5/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "doImage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1522C717-77B0-4285-9B82-E4AD57B3CD97 - e0e2eb847f00e377"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "inl5.ContentView.doImage(Swift.String) -&gt; (Swift.String, Swift.Double)"
+                  moduleName = "inl5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/AEK1LUD/dev/ML/5/inl5/inl5/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1188">
+               </Location>
+               <Location
+                  uuid = "1522C717-77B0-4285-9B82-E4AD57B3CD97 - e0e2eb847f00e3b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "inl5.ContentView.doImage(Swift.String) -&gt; (Swift.String, Swift.Double)"
+                  moduleName = "inl5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/AEK1LUD/dev/ML/5/inl5/inl5/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "832">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86AEB592-19F1-47CC-80DD-D24192152BE6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "inl5/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "doImage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "86AEB592-19F1-47CC-80DD-D24192152BE6 - e0e2eb847f00e3d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "inl5.ContentView.doImage(Swift.String) -&gt; (Swift.String, Swift.Double)"
+                  moduleName = "inl5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/AEK1LUD/dev/ML/5/inl5/inl5/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1688">
+               </Location>
+               <Location
+                  uuid = "86AEB592-19F1-47CC-80DD-D24192152BE6 - e0e2eb847f00e01c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "inl5.ContentView.doImage(Swift.String) -&gt; (Swift.String, Swift.Double)"
+                  moduleName = "inl5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/AEK1LUD/dev/ML/5/inl5/inl5/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1612">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3A67306-60B2-4D1E-9C5A-631F12DFA324"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "inl5/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "doImage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E3A67306-60B2-4D1E-9C5A-631F12DFA324 - e0e2eb847f00e3f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "inl5.ContentView.doImage(Swift.String) -&gt; (Swift.String, Swift.Double)"
+                  moduleName = "inl5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/AEK1LUD/dev/ML/5/inl5/inl5/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "1596">
+               </Location>
+               <Location
+                  uuid = "E3A67306-60B2-4D1E-9C5A-631F12DFA324 - e0e2eb847f00e3d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "inl5.ContentView.doImage(Swift.String) -&gt; (Swift.String, Swift.Double)"
+                  moduleName = "inl5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/AEK1LUD/dev/ML/5/inl5/inl5/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3750B0E2-7BDB-4EA8-976B-5AA2842E92BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "inl5/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "doImage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3750B0E2-7BDB-4EA8-976B-5AA2842E92BF - e0e2eb847f00e314"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "inl5.ContentView.doImage(Swift.String) -&gt; (Swift.String, Swift.Double)"
+                  moduleName = "inl5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/AEK1LUD/dev/ML/5/inl5/inl5/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "3750B0E2-7BDB-4EA8-976B-5AA2842E92BF - e0e2eb847f00e356"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "inl5.ContentView.doImage(Swift.String) -&gt; (Swift.String, Swift.Double)"
+                  moduleName = "inl5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/AEK1LUD/dev/ML/5/inl5/inl5/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "628">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
